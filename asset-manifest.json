@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactsimpleportfolio/static/css/main.d815b757.chunk.css",
+    "main.js": "/reactsimpleportfolio/static/js/main.d6e51cf2.chunk.js",
+    "main.js.map": "/reactsimpleportfolio/static/js/main.d6e51cf2.chunk.js.map",
+    "runtime-main.js": "/reactsimpleportfolio/static/js/runtime-main.a8299446.js",
+    "runtime-main.js.map": "/reactsimpleportfolio/static/js/runtime-main.a8299446.js.map",
+    "static/js/2.95eeacda.chunk.js": "/reactsimpleportfolio/static/js/2.95eeacda.chunk.js",
+    "static/js/2.95eeacda.chunk.js.map": "/reactsimpleportfolio/static/js/2.95eeacda.chunk.js.map",
+    "index.html": "/reactsimpleportfolio/index.html",
+    "precache-manifest.06d8982488c90b8a3414361ddbd8c0e5.js": "/reactsimpleportfolio/precache-manifest.06d8982488c90b8a3414361ddbd8c0e5.js",
+    "service-worker.js": "/reactsimpleportfolio/service-worker.js",
+    "static/css/main.d815b757.chunk.css.map": "/reactsimpleportfolio/static/css/main.d815b757.chunk.css.map",
+    "static/js/2.95eeacda.chunk.js.LICENSE.txt": "/reactsimpleportfolio/static/js/2.95eeacda.chunk.js.LICENSE.txt",
+    "static/media/keyboard.jpg": "/reactsimpleportfolio/static/media/keyboard.03a57a35.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8299446.js",
+    "static/js/2.95eeacda.chunk.js",
+    "static/css/main.d815b757.chunk.css",
+    "static/js/main.d6e51cf2.chunk.js"
+  ]
+}
