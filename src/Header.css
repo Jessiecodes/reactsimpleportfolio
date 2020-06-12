@@ -1,0 +1,26 @@
+header {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 300px;
+}
+header h1 {
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #fff;
+}
+
+header p {
+    font-weight: 700;
+    color: rgb(155, 155, 155);
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+}
+
+header a {
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,0.1);
+    font-weight: 700;
+    background-color: lightblue!important;
+    border-color: lightblue;
+    color: #fff !important;
+    padding: 20px;
+}
